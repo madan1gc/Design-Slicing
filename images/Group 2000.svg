@@ -1,0 +1,15 @@
+<svg id="Group_2000" data-name="Group 2000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.721" height="42.22" viewBox="0 0 38.721 42.22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1078" data-name="Rectangle 1078" width="38.721" height="42.22" fill="none" stroke="#7791be" stroke-width="1.5"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1999" data-name="Group 1999" clip-path="url(#clip-path)">
+    <path id="Path_2878" data-name="Path 2878" d="M9.3,11.055H.5L11.055.5V9.3A1.76,1.76,0,0,1,9.3,11.055Z" transform="translate(0.38 0.38)" fill="none" stroke="#7791be" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_2879" data-name="Path 2879" d="M33.924,19.118V33.08a1.76,1.76,0,0,1-1.759,1.759H2.259A1.76,1.76,0,0,1,.5,33.08V8.563" transform="translate(0.38 6.501)" fill="none" stroke="#7791be" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_2880" data-name="Path 2880" d="M8.5.5H26.092a1.76,1.76,0,0,1,1.759,1.759v8.8" transform="translate(6.453 0.38)" fill="none" stroke="#7791be" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_2881" data-name="Path 2881" d="M15.979,26.8l-6.841,3.11,3.11-6.841L27.174,8.138,30.9,11.871Z" transform="translate(6.937 6.178)" fill="none" stroke="#7791be" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_700" data-name="Line 700" x1="3.747" y1="3.729" transform="translate(31.172 17.24)" fill="none" stroke="#7791be" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_701" data-name="Line 701" x1="3.729" y1="3.747" transform="translate(19.175 29.237)" fill="none" stroke="#7791be" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>
